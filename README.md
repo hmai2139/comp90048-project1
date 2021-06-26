@@ -1,5 +1,4 @@
-# comp90048-project1
-COMP90048 Declarative Programming, S1 2021, Project 1 - Math Puzzles
+# COMP90048 Declarative Programming, S1 2021, Project 1 - Math Puzzles
 
 ### Problem description
 You will write Prolog code to solve maths puzzles. Your program should supply a predicate puzzle_solution(Puzzle) that holds when Puzzle is the representation of a solved maths puzzle.
